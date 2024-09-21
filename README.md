@@ -47,7 +47,7 @@ Repositorio
 
 
 Tarea 5 Encuesta Estudiantil - 48 preguntas
-Web
+
 CUESTIONARIO
 https://cuestionario-5368c.web.app/?classId=7af8e524-7f6f-494d-9fed-4c1d50542868&assignmentId=f994b834-17d6-4aad-81cc-f2213eedeaab&submissionId=b904948a-4ecc-07f7-7a34-9c58445de1ca
 
