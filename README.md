@@ -1,5 +1,6 @@
 # PROYECTOS-PM1-PS
 Tarea 1 Ensayos de Websim.ai, Prompt y Devin AI:
+
 DEVIN
 https://drive.google.com/drive/folders/1g0HkfO8_uGUllGODnKm8P9xh-Vf9vSQt?usp=drive_link
 
@@ -13,6 +14,7 @@ https://drive.google.com/drive/folders/1Jsnfzh4XsCOXBHtvMxUBuzkkr6o-DCgl?usp=dri
 
 
 Tarea 2 Guia Telefonica con guardado de contactos en JSON:
+
 Web
 https://ov20408.github.io/guia_telefonica/
 
@@ -22,6 +24,7 @@ https://github.com/OV20408/guia_telefonica
 
 
 Tarea 3 Aplicación de Cifrado y Descifrado para 2, 4, 16 y 32 bits + cifrado propio:
+
 Web
 https://ov20408.github.io/cifradorYdecifrador/
 
@@ -31,6 +34,7 @@ https://github.com/OV20408/cifradorYdecifrador
 
 
 Tarea 4 Aplicación Web para Registro de Usuario con validación de Google:
+
 Web
 https://ov20408.github.io/Login_Google/
 
@@ -61,6 +65,7 @@ https://drive.google.com/drive/folders/1GCl2P3cwqKyYo_xiCp2XYQJyzOmkjEJ6?usp=dri
 
 
 Tarea 6 Pagina Web TROIS:
+
 Web
 https://ov20408.github.io/TroisCamba/
 
