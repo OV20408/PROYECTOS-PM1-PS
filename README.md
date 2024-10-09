@@ -46,10 +46,10 @@ https://github.com/OV20408/Login_Google
 Tarea 4 (Grupal) Stocker - Proyecto Emprendedor
 
 Web
-https://ov20408.github.io/Stocker/
+https://ov20408.github.io/new-stocker/
 
 Repositorio
-https://github.com/OV20408/Stocker
+https://github.com/OV20408/new-stocker
 
 Tarea 5 Encuesta Estudiantil - 48 preguntas
 
@@ -75,9 +75,4 @@ Repositorio
 https://github.com/OV20408/TroisCamba
 
 
-
-
-Tarea 7 Pagina Web para un Negocio:
-
-TBC
 
